@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_HolaMundo</string>
+    <string name="button">Muestra en Pantalla</string>
+    <string name="hola">Que xopa!</string>
+    <string name="checkbox">Cortarte un brazo</string>
+    <string name="buttonSalir">Salir</string>
+</resources>
